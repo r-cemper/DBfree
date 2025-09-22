@@ -3,7 +3,7 @@
   <Document name="snap-dkfree.ZPM">
     <Module>
       <Name>snap-dkfree</Name>
-      <Version>0.0.1</Version>
+      <Version>0.0.2</Version>
       <Description>slave to Scan Disk free space</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
